@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1rajat
+- 👋 Hi, I’m Rajat Sharma 
 - 👀 I’m interested in Music Generation With DeepLearning
 - 🌱 I’m currently learning Deep Learning
 - I’m looking to collaborate on Music Generation
